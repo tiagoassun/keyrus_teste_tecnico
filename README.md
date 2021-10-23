@@ -65,7 +65,7 @@ df_municipio_final_pyspark.coalesce(1) \
 ~~~
 
 > Para visualizar os arquivos que foram salvos localmente, é só clicar no ícone de "arquivos" que o Google Colab por padrão irá te colocar em "/content", e com isso é possível visualizar os arquivos salvos.
-![1](https://raw.githubusercontent.com/tiagoassun/keyrus_teste_tecnico/main/images-readme/1.png)
+![1](https://raw.githubusercontent.com/tiagoassun/keyrus_teste_tecnico/main/img-readme/1.png)
 
 
 
