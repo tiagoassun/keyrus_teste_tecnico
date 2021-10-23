@@ -1,6 +1,6 @@
 # Teste Técnico de Engenharia de Dados
 
-> **Para abrir o código diretamente no Google Colab por favor [clique aqui.](https://colab.research.google.com/drive/1jQ8l0p3irrfhwJOCRr-5i60SYhdQxZmK)**
+> **Para abrir o código diretamente no Google Colab por favor [clique aqui.](https://colab.research.google.com/drive/1iBnnlAClXzsmKvoeLDMeVwX8AY-DgW7r?usp=sharing)**
 
 ## 1 - Google Colaboratory (Google Colab)
 Todo o teste foi feito utilizando o ambiente Google Colab. 
@@ -38,7 +38,7 @@ Como se trata no final das contas de um Jupyter Notebook, é possével utilizar 
 ~~~
 
 
-> **Para abrir o código diretamente no Google Colab por favor [clique aqui.](https://colab.research.google.com/github/tiagoassun/keyrus_teste_tecnico/blob/main/keyrus_teste_tecnico.ipynb)**
+> **Para abrir o código diretamente no Google Colab por favor [clique aqui.](https://colab.research.google.com/drive/1iBnnlAClXzsmKvoeLDMeVwX8AY-DgW7r?usp=sharing)**
 
 
 
@@ -65,8 +65,8 @@ df_municipio_final_pyspark.coalesce(1) \
 ~~~
 
 > Para visualizar os arquivos que foram salvos localmente, é só clicar no ícone de "arquivos" que o Google Colab por padrão irá te colocar em "/content", e com isso é possível visualizar os arquivos salvos.
-![1](https://raw.githubusercontent.com/tiagoassun/datasprints-teste-tecnico/master/images-readme/1.png)
+![1](https://raw.githubusercontent.com/tiagoassun/keyrus_teste_tecnico/main/images-readme/1.png)
 
 
 
-> **Para abrir o código diretamente no Google Colab por favor [clique aqui.](https://colab.research.google.com/github/tiagoassun/keyrus_teste_tecnico/blob/main/keyrus_teste_tecnico.ipynb)**
+> **Para abrir o código diretamente no Google Colab por favor [clique aqui.](hhttps://colab.research.google.com/drive/1iBnnlAClXzsmKvoeLDMeVwX8AY-DgW7r?usp=sharing)**
