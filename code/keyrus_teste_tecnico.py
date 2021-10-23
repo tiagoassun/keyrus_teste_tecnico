@@ -50,7 +50,7 @@ from pyspark.sql.window import Window
 """
 
 # Download do CSV para local, que será salvo no diretorio "/content/"
-!wget --quiet --show-progress https://raw.githubusercontent.com/tiagoassun/keyrus_teste_tecnico/main/cadastro-individual-MUNICIPIO-fim.csv
+!wget --quiet --show-progress https://raw.githubusercontent.com/tiagoassun/keyrus_teste_tecnico/main/file/cadastro-individual-MUNICIPIO-fim.csv
 
 # Carregar dados dos municípios
 df_municipio_csv = spark.read \
